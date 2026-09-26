@@ -18,6 +18,7 @@
 Program ini digunakan untuk menampilkan informasi peralatan menggambar yang tersedia pada sebuah toko. Peralatan menggambar dibagi menjadi dua kategori, yaitu:
 
 a. **Alat Gambar Konvensional**
+
 b. **Alat Gambar Digital**
 
 Setiap alat gambar memiliki informasi umum berupa:

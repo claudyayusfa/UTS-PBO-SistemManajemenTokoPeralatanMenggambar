@@ -3,12 +3,12 @@
 ## Identitas Mahasiswa
 | Identitas | Keterangan |
 | --- | --- |
-| **Nama:** | Claudya Yusfa Ariyani |
-| **NIM:** | 2509116043 |
+| **Nama** | Claudya Yusfa Ariyani |
+| **NIM** | 2509116043 |
 | **Program Studi** | Sistem Informasi |
-| **Mata Kuliah:** | Pemrograman Berorientasi Objek |
-| **Dosen Pengampu:** | Dr. Akhmad Irsyad, S.T., M.Kom. |
-| **Bahasa Pemrograman:** | Java |
+| **Mata Kuliah** | Pemrograman Berorientasi Objek |
+| **Dosen Pengampu** | Dr. Akhmad Irsyad, S.T., M.Kom. |
+| **Bahasa Pemrograman** | Java |
 
 ---
 
@@ -28,3 +28,18 @@ Setiap alat gambar memiliki informasi umum berupa:
 - Stok barang
 
 Selain informasi umum tersebut, masing-masing kategori memiliki informasi khusus.
+
+### Alat Gambar Konvensional
+
+Alat gambar konvensional memiliki informasi tambahan berupa **jenis** dan **bahan**.
+
+Contoh data yang digunakan:
+
+- Pensil 2B
+- Pensil Warna Faber Castell (24)
+- Drawing Pen 0.5
+- Kuas Lukis
+- Cat Air (12 pcs)
+- Sketchbook A5
+
+### Alat Gambar Digital

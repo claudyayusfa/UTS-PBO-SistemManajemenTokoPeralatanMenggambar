@@ -1,6 +1,6 @@
 # Sistem Manajemen Toko Peralatan Menggambar 🎨⋆｡˚👩🏻‍🎨ᝰ🖌️.🖼️
 
-## Identitas Mahasiswa
+## Identitas Mahasiswa :D
 | Identitas | Keterangan |
 | --- | --- |
 | **Nama** | Claudya Yusfa Ariyani |

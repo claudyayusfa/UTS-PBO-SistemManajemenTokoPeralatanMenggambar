@@ -1,6 +1,8 @@
 # Sistem Manajemen Toko Peralatan Menggambar 🎨⋆｡˚👩🏻‍🎨ᝰ🖌️.🖼️
 
 ## Identitas Mahasiswa
+| Identitas | Keterangan |
+| --- | --- |
 | **Nama:** | Claudya Yusfa Ariyani |
 | **NIM:** | 2509116043 |
 | **Program Studi** | Sistem Informasi |

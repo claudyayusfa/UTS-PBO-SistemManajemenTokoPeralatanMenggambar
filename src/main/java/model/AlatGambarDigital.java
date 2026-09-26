@@ -30,10 +30,11 @@ public class AlatGambarDigital extends AlatGambar{
         this.tipe = tipe;
     }
     
-    public void tampilkanAlatGambarDigital(){
+    @Override
+    public void tampilkanInfo(){
         System.out.println("+---------------------------------+");
         System.out.println("        Alat Gambar Digital");
-        super.tampilkanInfoAlatGambar();
+        super.tampilkanInfo();
         System.out.println("Koneksi : " + koneksi);
         System.out.println("Tipe    : " + tipe);
     }

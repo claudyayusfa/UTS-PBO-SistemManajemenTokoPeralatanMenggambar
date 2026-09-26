@@ -34,7 +34,7 @@ public class AlatGambar {
         return stok;
     }
     
-    public void tampilkanInfoAlatGambar(){
+    public void tampilkanInfo(){
         System.out.println("Kode    :" + kode);
         System.out.println("Nama    : " + nama);
         System.out.println("Harga   : Rp" + harga);

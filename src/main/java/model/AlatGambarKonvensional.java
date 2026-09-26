@@ -14,11 +14,11 @@ public class AlatGambarKonvensional extends AlatGambar{
         this.bahan = bahan;
     }
     
-    public String jenis(){
+    public String getJenis(){
         return jenis;
     }
     
-    public String bahan(){
+    public String getBahan(){
         return bahan;
     }
     
@@ -30,10 +30,11 @@ public class AlatGambarKonvensional extends AlatGambar{
         this.bahan = bahan;
     }
     
-    public void tampilkanAlatGambarKonvensional(){
+    @Override
+    public void tampilkanInfo(){
         System.out.println("+---------------------------------+");
         System.out.println("    Alat Gambar Konvensional");
-        super.tampilkanInfoAlatGambar();
+        super.tampilkanInfo();
         System.out.println("Jenis   : " + jenis);
         System.out.println("Bahan   : " + bahan);
     }

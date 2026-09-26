@@ -234,9 +234,9 @@ Masukkan Pilihan
 
 Saat program pertama kali dijalankan, program menampilkan menu utama yang terdiri dari tiga pilihan. Pengguna dapat memilih menu dengan memasukkan angka 1 sampai 3.
 
----
-
 <img width="522" height="290" alt="image" src="https://github.com/user-attachments/assets/66aeccc5-4325-40a2-add3-0160a0d6c5fb" />
+
+---
 
 ### 5.2 Menampilkan Alat Gambar Konvensional
 
